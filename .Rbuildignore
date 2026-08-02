@@ -1,0 +1,10 @@
+^\.agents$
+^\.codex$
+^\.git$
+^\.\.Rcheck$
+^.*\.Rcheck$
+^customVenn_.*\.tar\.gz$
+^customVenn\.Rcheck$
+^venn_diagram_gene_lst\.rds$
+^script\.r$
+^scripts$
