@@ -1,0 +1,26 @@
+Package: customVenn
+Title: Custom Scaled Venn Diagrams with ggplot2
+Version: 0.0.0.9000
+Authors@R:
+    person("Custom", "Venn", email = "customvenn@example.com", role = c("aut", "cre"))
+Author: Custom Venn [aut, cre]
+Maintainer: Custom Venn <customvenn@example.com>
+Description: Draw customizable two- and three-set circular Venn diagrams with
+    true region labels and controllable visual circle scaling.
+License: MIT + file LICENSE
+URL: https://github.com/hmutanqilong/customVenn
+BugReports: https://github.com/hmutanqilong/customVenn/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports:
+    dplyr,
+    ggforce,
+    ggplot2,
+    rlang,
+    scales,
+    tibble
+Suggests:
+    eulerr,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
