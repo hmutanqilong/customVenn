@@ -1,0 +1,13 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+..Rcheck/
+customVenn.Rcheck/
+customVenn_*.tar.gz
+.agents/
+.codex/
+venn_diagram_gene_lst.rds
+example.jpg
+test_real.jpg
